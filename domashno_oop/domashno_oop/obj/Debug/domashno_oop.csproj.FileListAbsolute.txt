@@ -1,0 +1,7 @@
+D:\igri\proekti\ооп\domashno\domashno_oop\domashno_oop\obj\Debug\domashno_oop.csproj.AssemblyReference.cache
+D:\igri\proekti\ооп\domashno\domashno_oop\domashno_oop\obj\Debug\domashno_oop.csproj.CoreCompileInputs.cache
+D:\igri\proekti\ооп\domashno\domashno_oop\domashno_oop\bin\Debug\domashno_oop.exe.config
+D:\igri\proekti\ооп\domashno\domashno_oop\domashno_oop\bin\Debug\domashno_oop.exe
+D:\igri\proekti\ооп\domashno\domashno_oop\domashno_oop\bin\Debug\domashno_oop.pdb
+D:\igri\proekti\ооп\domashno\domashno_oop\domashno_oop\obj\Debug\domashno_oop.exe
+D:\igri\proekti\ооп\domashno\domashno_oop\domashno_oop\obj\Debug\domashno_oop.pdb
